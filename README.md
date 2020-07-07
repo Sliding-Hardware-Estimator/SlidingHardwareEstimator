@@ -1,7 +1,7 @@
 # Sliding Hardware Estimator
 S.H.E.: a generic framework for data stream mining over sliding windows
 
-This repostory contains all the codes related to the manuscript submitted to SIGKDD'20.
+This repostory contains all the codes related to the manuscript submitted to ICDE'20.
 
 BOBHash is used as the hash function in the code.
 
