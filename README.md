@@ -1,5 +1,5 @@
 # Sliding Hardware Estimator
-S.H.E.: a generic framework for data stream mining over sliding windows.
+S.H.E.: a generic framework for data stream mining over sliding windows on hardware platforms.
 
 This repostory contains all the codes related to the manuscript submitted to DAC'22.
 
